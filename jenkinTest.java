@@ -1,5 +1,5 @@
 
-public class jenkinTest {
+public class JenkinTest {
 
 	public static void main(String[] args) {
 		
